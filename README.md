@@ -1,2 +1,4 @@
-# DROC
-a DX operating software
+# 项目介绍
+DROC控制软件是一个运行于win10系统的桌面应用程序，用于医用DX设备的图像采集工作
+
+
